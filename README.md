@@ -9,8 +9,8 @@
  React.js, TailwindCSS, Next.js, Node.js, Git, GitHub</small>
 
 <br><br><small>📫 How to reach me: <a href="mailto:kaan905.kaan@gmail.com">kaan905.kaan@gmail.com</a></small>
-
-## Connect with me:
+<br><br><br>
+### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-dmr)
 
 
