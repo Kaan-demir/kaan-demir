@@ -3,7 +3,7 @@
 
 ### 🚀 I Develop Modern Web Applications Using Next.js / .NET
 ---
-> <img src="https://github.com/Kaan-demir/kaan-demir/raw/master/software-gif.gif" width="400" align="right">
+> <img src="https://github.com/Kaan-demir/kaan-demir/raw/master/software-gif.gif" width="350" align="right">
 👀 **Competencies**:
  - <small>HTML5, CSS3, Bootstrap, JavaScript,
  React.js, TailwindCSS, Next.js, Node.js, Git, GitHub</small>
