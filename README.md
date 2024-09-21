@@ -8,7 +8,7 @@
  - <small>HTML5, CSS3, TailwindCSS, JavaScript,
   Bootstrap, Next.js, .Net core, Git, GitHub, Azure DevOps</small>
 
-<br><br><small>📫 How to reach me: <a href="mailto:kaan905.kaan@gmail.com">kaan905.kaan@gmail.com</a></small>
+<br><br><small>📫 Email communication: <a href="mailto:kaan905.kaan@gmail.com">kaan905.kaan@gmail.com</a></small>
 <br><br><br>
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-dmr)
