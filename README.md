@@ -10,7 +10,7 @@
 
 <br><br><small>📫 How to reach me: <a href="mailto:kaan905.kaan@gmail.com">kaan905.kaan@gmail.com</a></small>
 <br><br><br>
-### Connect with me:
+### Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-dmr)
 
 
