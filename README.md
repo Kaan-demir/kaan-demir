@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Kaan-demir/kaan-demir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **Hi 👋, I'm @kaan-demir**
 
-Here are some ideas to get you started:
+### 🚀 I Develop Modern Web Applications Using Next.js / .NET
+---
+> <img src="https://github.com/Kaan-demir/kaan-demir/raw/master/software-gif.gif" width="400" align="right">
+👀 **Competencies**:
+ - <small>HTML5, CSS3, Bootstrap, JavaScript,
+ React.js, TailwindCSS, Next.js, Node.js, Git, GitHub</small>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br><small>📫 How to reach me: <a href="mailto:kaan905.kaan@gmail.com">kaan905.kaan@gmail.com</a></small>
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-dmr)
+
+
+
