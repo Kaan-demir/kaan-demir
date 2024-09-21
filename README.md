@@ -5,8 +5,8 @@
 ---
 > <img src="https://github.com/Kaan-demir/kaan-demir/raw/master/software-gif.gif" width="350" align="right">
 👀 **Competencies**:
- - <small>HTML5, CSS3, Bootstrap, JavaScript,
- React.js, TailwindCSS, Next.js, Node.js, Git, GitHub</small>
+ - <small>HTML5, CSS3, TailwindCSS, JavaScript,
+  Bootstrap, Next.js, .Net core, Git, GitHub, Azure DevOps</small>
 
 <br><br><small>📫 How to reach me: <a href="mailto:kaan905.kaan@gmail.com">kaan905.kaan@gmail.com</a></small>
 <br><br><br>
