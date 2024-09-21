@@ -1,7 +1,7 @@
 
   **Hi 👋, I'm @kaan-demir**
 
-### 🚀 I Develop Modern Web Applications Using Next.js / .NET
+### 🚀 I Develop Modern Web Applications Using Next.js / .NET Core
 ---
 > <img src="https://github.com/Kaan-demir/kaan-demir/raw/master/software-gif.gif" width="350" align="right">
 👀 **Competencies**:
