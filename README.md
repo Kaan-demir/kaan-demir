@@ -1,5 +1,6 @@
 
 
+
   **Hi 👋, I'm @kaan-demir**
 
 ### 🚀 I Develop Modern Web Applications Using Next.js / .NET Core
@@ -10,6 +11,7 @@
   Bootstrap, Next.js, .Net core, Git, GitHub, Azure DevOps(CI/CD)</small>
 
 <br>
+
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-dmr)
 <br>
