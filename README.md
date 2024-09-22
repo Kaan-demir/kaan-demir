@@ -12,6 +12,7 @@
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-dmr)
+<br>
 <small>📫 Email communication: <a href="mailto:kaan905.kaan@gmail.com">kaan905.kaan@gmail.com</a>
 
 
