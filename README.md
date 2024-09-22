@@ -9,7 +9,7 @@
  - <small>HTML5, CSS3, TailwindCSS, JavaScript,
   Bootstrap, Next.js, .Net core, Git, GitHub, Azure DevOps(CI/CD)</small>
 
-
+<br>
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaan-dmr)
 <br>
