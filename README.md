@@ -8,7 +8,7 @@
 > <img src="https://github.com/Kaan-demir/kaan-demir/raw/master/software-gif.gif" width="350" align="right" >
 👀 **Competencies**:
  - <small>HTML5, CSS3, TailwindCSS, JavaScript,
-  Bootstrap, Next.js, .Net core, Git, GitHub, Azure DevOps(CI/CD)</small>
+  Bootstrap, Next.js, .Net core, Git, GitHub, Azure DevOps(CI/CD Pipline)</small>
 
 <br>
 
